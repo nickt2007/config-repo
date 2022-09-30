@@ -15,7 +15,7 @@ springdoc:
 
 
 test:
-  name: ok4
+  name: ok5
 
 management:
   endpoints:
